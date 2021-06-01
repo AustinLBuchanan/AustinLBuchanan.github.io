@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-**PhD students:**
+**PhD students**
 
 1.  Hosseinali Salemi
 -   Fall 2016 -- Summer 2020.
@@ -21,7 +21,7 @@ author_profile: true
 -   Fall 2017 -- present.
 -   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [Linkedin](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
 
-**Undergraduate students:**
+**Undergraduate students**
 
 1.  [Elizabeth Bunting](https://www.linkedin.com/in/elizabeth-bunting-b01927181/)
 -   NSF REU, Summer 2018
@@ -30,5 +30,3 @@ author_profile: true
 
 2.  [Ryne Garrison](https://www.linkedin.com/in/ryne-garrison-2b17011b6/)
 -   NSF REU, Summer 2021
-
- |
