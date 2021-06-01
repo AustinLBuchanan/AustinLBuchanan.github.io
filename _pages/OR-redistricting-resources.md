@@ -8,7 +8,7 @@ author_profile: false
 Miscellaneous
 -   [Districtr](https://districtr.org/)
 -   [Gridlandia](https://mggg.org/metagraph/)
--   [Hamidreza Validi's puzzles](https://drive.google.com/file/d/1tM1zHLtNQ1QJ7pzLvFqxLukZtWr-UBCH/view)
+-   [Hamidreza Validi's puzzles](https://austinlbuchanan.github.io/files/MIPchallenge.pdf)
 -   [Can my state redistrict at the county level?](https://farkasdilemma.wordpress.com/2020/09/14/can-my-state-redistrict-at-the-county-level/)
 -   [How close were recent US presidential elections?](https://farkasdilemma.wordpress.com/2021/02/03/how-close-were-recent-us-presidential-elections/)
 -   [YouTube video of all 365 county-level districting plans for New Mexico](https://www.youtube.com/watch?v=pMJHDoIK8og)
