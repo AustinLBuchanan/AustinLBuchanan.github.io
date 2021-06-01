@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /OR-redistricting-resources/
 title: "OR Redistricting Resources"
 excerpt: "OR Redistricting Resources"
 author_profile: true
