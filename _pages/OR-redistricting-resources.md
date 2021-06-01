@@ -5,10 +5,6 @@ permalink: /OR-redistricting-resources/
 author_profile: false
 ---
 
-### OR Redistricting Resources
-
-|
-
 Miscellaneous
 
 -   [Districtr](https://districtr.org/)
