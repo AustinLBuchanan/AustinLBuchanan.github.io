@@ -5,10 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-### Students
-
-|
-
 **PhD students:**
 
 1.  Hosseinali Salemi
