@@ -2,7 +2,7 @@
 layout: archive
 title: "OR Redistricting Resources"
 permalink: /OR-redistricting-resources/
-author_profile: true
+author_profile: false
 ---
 
 ### OR Redistricting Resources
