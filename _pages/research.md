@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on [combinatorial optimization](http://en.wikipedia.org/wiki/Combinatorial_optimization) problems in [graphs](http://en.wikipedia.org/wiki/Graph_theory) or [networks](http://en.wikipedia.org/wiki/Network_theory). I am particularly interested in: (1) solving problems with connectivity/distance constraints, (2) studying [operations research](http://en.wikipedia.org/wiki/Operations_research) and [mathematical programming](http://en.wikipedia.org/wiki/Mathematical_optimization) problems using insights from [parameterized complexity](http://en.wikipedia.org/wiki/Parameterized_complexity), and (3) applications in political redistricting. 
+My research focuses on [combinatorial optimization](http://en.wikipedia.org/wiki/Combinatorial_optimization) problems in [graphs](http://en.wikipedia.org/wiki/Graph_theory) or [networks](http://en.wikipedia.org/wiki/Network_theory). I am particularly interested in: 
+ - solving problems with connectivity/distance constraints, 
+ - studying [operations research](http://en.wikipedia.org/wiki/Operations_research) and [mathematical programming](http://en.wikipedia.org/wiki/Mathematical_optimization) problems using insights from [parameterized complexity](http://en.wikipedia.org/wiki/Parameterized_complexity), and 
+ - applications in political redistricting. 
 
 Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en), [GitHub](https://github.com/AustinLBuchanan), and [ORCID](http://orcid.org/0000-0003-2999-9666). 
 
