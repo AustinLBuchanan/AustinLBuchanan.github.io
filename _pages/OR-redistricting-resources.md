@@ -6,7 +6,6 @@ author_profile: false
 ---
 
 Miscellaneous
-
 -   [Districtr](https://districtr.org/)
 -   [Gridlandia](https://mggg.org/metagraph/)
 -   [Hamidreza Validi's puzzles](https://drive.google.com/file/d/1tM1zHLtNQ1QJ7pzLvFqxLukZtWr-UBCH/view)
@@ -20,14 +19,12 @@ Miscellaneous
 -   [Ballotpedia: Redistricting](https://ballotpedia.org/Redistricting)
 
 Reviews, Surveys, Books
-
 -   [Political districting: from classical models to recent approaches](https://scholar.google.com/scholar?cluster=7613659959135580094&hl=en&as_sdt=0,37&as_ylo=2013&as_yhi=2013)
 -   [Redistricting Algorithms](https://arxiv.org/abs/2011.09504) (from [Political Geometry](https://mggg.org/gerrybook))
 -   [The Realist's Guide to Redistricting](https://sites.tufts.edu/vrdi/files/2019/06/The-Realists-Guide-to-Redistricting-2010-edition.pdf)
 -   [Political Districting Problem: Literature Review and Discussion with regard to Federal Elections in Germany](https://scholar.google.com/scholar?cluster=17472675891767384885&hl=en&as_sdt=0,37)
 
 Papers
-
 -   [Recombination: A family of Markov chains for redistricting](https://arxiv.org/abs/1911.05725) 
 -   [Locating the Representational Baseline: Republicans in Massachusetts](https://scholar.google.com/scholar?cluster=16646324596944776692&hl=en&as_sdt=0,37) <- Is Massachusetts gerrymandered?
 -   [Geometry of Graph Partitions via Optimal Transport](https://scholar.google.com/scholar?cluster=17829189111662706388&hl=en&as_sdt=0,37)  <- How similar are two redistricting plans?
@@ -40,7 +37,6 @@ Papers
 -   [Redistricting by Formula: An Ohio Reform Experiment](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Redistricting+by+Formula%3A+An+Ohio+Reform+Experiment&btnG=)
 
 Papers from the OR/MS literature
-
 -   1965: [Nonpartisan political redistricting by computer](https://scholar.google.com/scholar?cluster=13177482107207957001&hl=en&as_sdt=0,37)
 -   1970: [Optimal political districting by implicit enumeration techniques](https://scholar.google.com/scholar?cluster=1316487316621003877&hl=en&as_sdt=0,37)
 -   1998: [An optimization based heuristic for political districting](https://scholar.google.com/scholar?cluster=11965025065918439229&hl=en&as_sdt=0,37)
@@ -55,18 +51,15 @@ Papers from the OR/MS literature
 -   2021: [Political districting to minimize cut edges](http://www.optimization-online.org/DB_HTML/2021/04/8349.html)
 
 FiveThirtyEight
-
 -   [The Gerrymandering Project podcast](https://podcasts.apple.com/us/podcast/the-gerrymandering-project/id1336743759)
 -   [The Atlas of Redistricting](https://projects.fivethirtyeight.com/redistricting-maps/)
 
 Talks and Slides
-
 -   Moon Duchin ([2018 JMM](https://www.youtube.com/watch?v=VddLOevo7QY)) ([2018 Harvard](https://www.youtube.com/watch?v=pi_i3ZMvtTo)) ([2017 Duke slides](https://sites.duke.edu/gerrymandering/files/2017/11/MD-duke.pdf))
 -   Sidney W. Hess ([2015](https://www.youtube.com/watch?v=K2cr1MPs_Ps))
 -   Austin Buchanan ([2020 DOT](https://www.youtube.com/watch?v=aV9NLC3isUo)) ([slides](https://github.com/zhelih/districting/blob/master/Districting_slides.pdf))
 
 Teaching
-
 -   [Computational Approaches for Political Redistricting](https://people.csail.mit.edu/ddeford/CAPR.php)
 -   [Geometry of Redistricting Materials for Educators](https://drive.google.com/drive/folders/0B5zH9LR2ugmGcWFhMjg4ZzYtcDg)
 -   [MGGG Teaching Day 2019](https://www.dropbox.com/sh/gp3cng22s5fudun/AACFUvVKzzGVdmjqQZ7wZARha?dl=0)
@@ -74,7 +67,6 @@ Teaching
 -   [Teach Gerry](https://jenni-niels.github.io/teach-gerry/) ([Materials](https://jenni-niels.github.io/teach-gerry/materials))
 
 Code
-
 -   [GerryChain](https://gerrychain.readthedocs.io/en/latest/)
 -   *[Imposing contiguity constraints in political districting models](https://github.com/zhelih/districting)*
 -   [Brian Olson's page](https://bdistricting.com/2010/)
@@ -83,7 +75,6 @@ Code
 -   [Python codes for 2010 and 2020 Reapportionment](https://github.com/AustinLBuchanan/Reapportionment)
 
 Data
-
 -   [2010 Census](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2010.html)
 -   [MGGG states](https://github.com/mggg-states)
 -   [Daryl DeFord's 2010 graphs](http://people.csail.mit.edu/ddeford/dual_graphs)
@@ -93,17 +84,13 @@ Data
 -   [Redistricting Data Hub](https://www.redistrictingdatahub.org/)
 
 Links to Links
-
 -   VRDI 2018 ([slides](https://sites.tufts.edu/vrdi/slides-2018/)) ([papers and links](https://sites.tufts.edu/vrdi/papers/))
 -   VRDI 2019 ([slides](https://sites.tufts.edu/vrdi/slides-2019/)) ([papers and links](https://sites.tufts.edu/vrdi/2019-papers-and-links/))
 -   [NCSL Redistricting Resources](https://www.ncsl.org/research/redistricting/redistricting-research-and-presentations.aspx)
 
 Redistricting Research Groups
-
 -   [MGGG](https://mggg.org/)
 -   [Princeton Election Consortium](https://election.princeton.edu/)
 -   [Redistricting Analytics at Virginia Tech](https://redistricting.cgit.vt.edu/)
 -   [ICOR @ UIUC](http://redistricting.cs.illinois.edu/)
 -   [Quantifying Gerrymandering @ Duke](https://sites.duke.edu/quantifyinggerrymandering/quantifying-gerrymandering/)
-
- |
