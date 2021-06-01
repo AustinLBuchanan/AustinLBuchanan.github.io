@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "OR Redistricting Resources"
+excerpt: "OR Redistricting Resources"
+author_profile: true
+redirect_from: 
+  - /OR-redistricting-resources/
+  - /OR-redistricting-resources.html
+---
+
 ### OR Redistricting Resources
 
 |
