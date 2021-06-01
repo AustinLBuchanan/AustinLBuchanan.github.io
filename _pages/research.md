@@ -47,7 +47,5 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 -   A. Buchanan, M.J. Naderi. A brief tutorial on Gomory cuts. *IFORS News, *pages 7-9, March 2020. ([link](https://www.ifors.org/newsletter/ifors-news-march-2020.pdf)) ([pdf](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP/blob/master/A_brief_tutorial_on_Gomory_cuts.pdf)) ([code](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP))
 -   A. Buchanan, S. Butenko. Tight extended formulations for independent set. 2015. ([link](http://www.optimization-online.org/DB_HTML/2014/09/4540.html)) ([pdf](https://sites.google.com/site/austinlbuchanan/home/research/Tight%20Extended%20Formulations%20for%20Independent%20Set.pdf?attredirects=0))
-
     -   A main result of this paper is that there are size O(n2^k) extended formulations for independent set in graphs of treewidth at most k. Unbeknownst to us, the same bound had been obtained by Monique Laurent using different techniques. See page 134 of her paper "[Sums of squares, moment matrices and optimization over polynomials](http://homepages.cwi.nl/~monique/files/moment-ima-update-new.pdf)." *
-
 -   A. Buchanan, N. Chen, X. Ma. Using GRASP for the cover by s-defective independent sets problem. In Examining Robustness and Vulnerability of Critical Infrastructure Networks. Ed. by S. Butenko, E.L. Pasiliao, and V. Shylo. Amsterdam: IOS Press, 2014, pp. 17--25. ([pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhdXN0aW5sYnVjaGFuYW58Z3g6MjQyMDk1ZmI2NzZlYjY4NA))
