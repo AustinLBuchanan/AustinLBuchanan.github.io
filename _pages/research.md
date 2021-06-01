@@ -34,7 +34,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 14. A. Buchanan, J.S. Sung, V. Boginski, S. Butenko. On connected dominating sets of restricted diameter. *European Journal of Operational Research*, 236(2):410-418, 2014. ([link](http://www.sciencedirect.com/science/article/pii/S0377221713009533)) ([pdf](https://sites.google.com/site/austinlbuchanan/home/research/DominatingClub.pdf?attredirects=0))
 15. A. Buchanan, J.L. Walteros, S. Butenko, P.M. Pardalos. Solving maximum clique in sparse graphs: an O(nm + n2^{d/4}) algorithm for d-degenerate graphs. *Optimization Letters*, 8(5):1611-1617, 2014. ([link](http://link.springer.com/article/10.1007/s11590-013-0698-2)) ([pdf](https://sites.google.com/site/austinlbuchanan/home/research/CliqueDegeneracy.pdf?attredirects=0))
 
-Submitted Papers
+### Submitted Papers
 
 -   M.J. Naderi, A. Buchanan, J.L. Walteros. Worst-case analysis of clique MIPs. Major revision at *Mathematical Programming, *May 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/01/8198.html)) ([code](https://github.com/MohNaderi/Worst-case-analysis-of-clique-MIPs))
 -   H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Major revision at *INFORMS Journal on Computing, *February 2021. ([link](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)) ([code](https://github.com/halisalemi/DCNP))
