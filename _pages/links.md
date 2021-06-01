@@ -7,7 +7,7 @@ author_profile: true
 
 I blog at [Farkas' Dilemma](https://farkasdilemma.wordpress.com/). You can find me on Q&A sites like [OR StackExchange](https://or.stackexchange.com/users/53/austin-buchanan), [OR-Exchange](https://www.or-exchange.org/users/572/austin-buchanan/), and [Theoretical CS StackExchange](http://cstheory.stackexchange.com/users/13056/austin-buchanan). There's also [Google Scholar](http://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en), [Linkedin](http://www.linkedin.com/pub/austin-buchanan/21/8a7/a98), [GitHub](https://github.com/AustinLBuchanan), and [Twitter](https://twitter.com/AustinLBuchanan). Until recently, I was a leaf in the [math genealogy tree](https://genealogy.math.ndsu.nodak.edu/id.php?id=193868). My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [three](http://www.ams.org/mathscinet/collaborationDistance.html). I have a [rock musician network](https://www.fastcompany.com/3031894/infographic-this-complicated-rock-chart-shows-how-your-favorite-bands-are-connected) hanging in my office.
 
-Here are [some tips for PhD students](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhdXN0aW5sYnVjaGFuYW58Z3g6NWY2MTFiMzk2OTk4NTg2) (pdf) that I wrote.
+Here are [some tips for PhD students](https://austinlbuchanan.github.io/files/Tips%20for%20PhD.pdf) (pdf) that I wrote.
 
 Every now and then, I come across an excellent piece of scientific writing that I feel the need to share:
 -   [The great mathematical sputnik of 1979](http://lpsdp.files.wordpress.com/2011/10/ellipsoid-stories.pdf)
