@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Austin Buchanan"
 title_separator          : "-"
-name                     : &name "Austin Buchanan"
+name                     : &name "Austin Buchanan (he/him/his)"
 description              : &description "Assistant Professor of Industrial Engineering & Management at Oklahoma State University"
 url                      : https://AustinLBuchanan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
