@@ -10,7 +10,7 @@ My research focuses on [combinatorial optimization](http://en.wikipedia.org/wik
  - studying [operations research](http://en.wikipedia.org/wiki/Operations_research) and [mathematical programming](http://en.wikipedia.org/wiki/Mathematical_optimization) problems using insights from [parameterized complexity](http://en.wikipedia.org/wiki/Parameterized_complexity), and 
  - applications in political redistricting. 
 
-Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en), [GitHub](https://github.com/AustinLBuchanan), and [ORCID](http://orcid.org/0000-0003-2999-9666). 
+Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en), [GitHub](https://github.com/AustinLBuchanan), [ORCID](http://orcid.org/0000-0003-2999-9666), and [DBLP](https://dblp.uni-trier.de/pid/143/4870.html). 
 
 ### Grants
 
