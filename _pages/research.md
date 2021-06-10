@@ -40,7 +40,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 ### Submitted Papers
 
 -   M.J. Naderi, A. Buchanan, J.L. Walteros. Worst-case analysis of clique MIPs. Major revision at *Mathematical Programming, *May 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/01/8198.html)) ([code](https://github.com/MohNaderi/Worst-case-analysis-of-clique-MIPs))
--   H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Major revision at *INFORMS Journal on Computing, *February 2021. ([link](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)) ([code](https://github.com/halisalemi/DCNP))
+-   H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Revision submitted to *INFORMS Journal on Computing, *June 2021. ([link](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)) ([code](https://github.com/halisalemi/DCNP))
 -   H. Validi, A. Buchanan. Political districting to minimize cut edges. Submitted, April 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/04/8349.html)) ([code](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges))
 
 ### Other
