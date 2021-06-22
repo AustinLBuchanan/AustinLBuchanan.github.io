@@ -11,6 +11,7 @@ Miscellaneous
 -   [Hamidreza Validi's puzzles](https://austinlbuchanan.github.io/files/MIPchallenge.pdf)
 -   [Can my state redistrict at the county level?](https://farkasdilemma.wordpress.com/2020/09/14/can-my-state-redistrict-at-the-county-level/)
 -   [How close were recent US presidential elections?](https://farkasdilemma.wordpress.com/2021/02/03/how-close-were-recent-us-presidential-elections/)
+-   [US Congressional Apportionment as an Optimization Problem (MINLP)](https://farkasdilemma.wordpress.com/2021/06/20/us-congressional-apportionment-as-an-optimization-problem-minlp/)
 -   [YouTube video of all 365 county-level districting plans for New Mexico](https://www.youtube.com/watch?v=pMJHDoIK8og)
 -   [Gerrymandering Metrics: How to Measure? What's the Baseline?](https://arxiv.org/pdf/1801.02064.pdf)
 -   [A Formula Goes to Court: Partisan Gerrymandering and the Efficiency Gap](https://www.ams.org/journals/notices/201709/rnoti-p1020.pdf)
