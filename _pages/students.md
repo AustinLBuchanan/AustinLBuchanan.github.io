@@ -10,16 +10,20 @@ author_profile: true
 1.  Hosseinali Salemi
 -   Fall 2016 -- Summer 2020.
 -   Position at graduation: Postdoc at Iowa State University
--   [Website](https://halisalemi.github.io/) [Twitter](https://twitter.com/HASalemi) [Linkedin](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
+-   [Website](https://halisalemi.github.io/) [Twitter](https://twitter.com/HASalemi) [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 
 2.  Hamidreza Validi 
 -   Fall 2016 -- Summer 2020.
--   [Website](https://sites.google.com/site/hamidrezavalidi2/home) [Twitter](https://twitter.com/ValidInequality) [Linkedin](https://www.linkedin.com/in/hamidrezavalidi/)
+-   [Website](https://sites.google.com/site/hamidrezavalidi2/home) [Twitter](https://twitter.com/ValidInequality) [LinkedIn](https://www.linkedin.com/in/hamidrezavalidi/)
 -   Position at graduation: Postdoc at Rice University
 
 3.  Mohammad Javad Naderi
 -   Fall 2017 -- present.
--   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [Linkedin](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
+-   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [LinkedIn](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
+
+4.  Maral Shahmizad
+-   Summer 2021 -- present.
+-   [Google Scholar](https://scholar.google.com/citations?user=EetymRMAAAAJ&hl=en&oi=ao) [LinkedIn](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
 
 **Undergraduate students**
 
