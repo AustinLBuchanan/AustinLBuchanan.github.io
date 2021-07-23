@@ -23,7 +23,7 @@ author_profile: true
 
 4.  Maral Shahmizad
 -   Summer 2021 -- present.
--   [Website](https://maralshahmizad.github.io/MaralShahmizad/)
+-   [Website](https://maralshahmizad.github.io/MaralShahmizad/) [Twitter](https://twitter.com/maralshah1) [LinkedIn](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
 
 **Undergraduate students**
 
