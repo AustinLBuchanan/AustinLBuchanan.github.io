@@ -9,7 +9,7 @@ author_profile: true
 
 1. Soraya Ezazipour
 -   Fall 2021 -- present.
--   [Google Scholar](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en&oi=ao) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
+-   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
 
 2.  Maral Shahmizad
 -   Summer 2021 -- present.
