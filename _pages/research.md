@@ -39,13 +39,14 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Submitted Papers
 
--   M.J. Naderi, A. Buchanan, J.L. Walteros. Worst-case analysis of clique MIPs. Revision submitted to *Mathematical Programming, *June 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/01/8198.html)) ([code](https://github.com/MohNaderi/Worst-case-analysis-of-clique-MIPs))
--   H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Revision submitted to *INFORMS Journal on Computing, *June 2021. ([link](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)) ([code](https://github.com/halisalemi/DCNP))
+-   Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. Submitted, August 2021. ([code])(https://github.com/yajun668/FaultTolerantClubs)
+-   M.J. Naderi, A. Buchanan, J.L. Walteros. Worst-case analysis of clique MIPs. Revision submitted to *Mathematical Programming*, June 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/01/8198.html)) ([code](https://github.com/MohNaderi/Worst-case-analysis-of-clique-MIPs))
+-   H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Revision submitted to *INFORMS Journal on Computing*, June 2021. ([link](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)) ([code](https://github.com/halisalemi/DCNP))
 -   H. Validi, A. Buchanan. Political districting to minimize cut edges. Submitted, April 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/04/8349.html)) ([code](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges))
 
 ### Other
 
--   A. Buchanan, M.J. Naderi. A brief tutorial on Gomory cuts. *IFORS News, *pages 7-9, March 2020. ([link](https://www.ifors.org/newsletter/ifors-news-march-2020.pdf)) ([pdf](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP/blob/master/A_brief_tutorial_on_Gomory_cuts.pdf)) ([code](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP))
+-   A. Buchanan, M.J. Naderi. A brief tutorial on Gomory cuts. *IFORS News*, pages 7-9, March 2020. ([link](https://www.ifors.org/newsletter/ifors-news-march-2020.pdf)) ([pdf](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP/blob/master/A_brief_tutorial_on_Gomory_cuts.pdf)) ([code](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP))
 -   A. Buchanan, S. Butenko. Tight extended formulations for independent set. 2015. ([link](http://www.optimization-online.org/DB_HTML/2014/09/4540.html)) ([pdf](https://austinlbuchanan.github.io/files/Tight%20Extended%20Formulations%20for%20Independent%20Set.pdf))
     -   A main result of this paper is that there are size O(n2^k) extended formulations for independent set in graphs of treewidth at most k. Unbeknownst to us, the same bound had been obtained by Monique Laurent using different techniques. See page 134 of her paper "[Sums of squares, moment matrices and optimization over polynomials](http://homepages.cwi.nl/~monique/files/moment-ima-update-new.pdf)." 
 -   A. Buchanan, N. Chen, X. Ma. Using GRASP for the cover by s-defective independent sets problem. In Examining Robustness and Vulnerability of Critical Infrastructure Networks. Ed. by S. Butenko, E.L. Pasiliao, and V. Shylo. Amsterdam: IOS Press, 2014, pp. 17--25. ([pdf](https://austinlbuchanan.github.io/files/s-defective%20coloring.pdf))
