@@ -7,6 +7,7 @@ author_profile: false
 
 Miscellaneous
 -   [Districtr](https://districtr.org/)
+-   [Dave's Redistricting](https://davesredistricting.org/)
 -   [Gridlandia](https://mggg.org/metagraph/)
 -   [Hamidreza Validi's puzzles](https://austinlbuchanan.github.io/files/MIPchallenge.pdf)
 -   [Can my state redistrict at the county level?](https://farkasdilemma.wordpress.com/2020/09/14/can-my-state-redistrict-at-the-county-level/)
@@ -17,6 +18,7 @@ Miscellaneous
 -   [A Formula Goes to Court: Partisan Gerrymandering and the Efficiency Gap](https://www.ams.org/journals/notices/201709/rnoti-p1020.pdf)
 -   [NCSL Redistricting Criteria](https://www.ncsl.org/research/redistricting/redistricting-criteria.aspx)
 -   [NCSL 2010 Deviation Table](https://www.ncsl.org/research/redistricting/2010-ncsl-redistricting-deviation-table.aspx)
+-   [NCSL Redistricting Cases](https://www.ncsl.org/research/redistricting/redistricting-and-the-supreme-court-the-most-significant-cases.aspx)
 -   [Ballotpedia: Redistricting](https://ballotpedia.org/Redistricting)
 
 Reviews, Surveys, Books
@@ -77,9 +79,11 @@ Code
 
 Data
 -   [2010 Census](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2010.html)
+-   [2020 Census](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html)
 -   [MGGG states](https://github.com/mggg-states)
 -   [Daryl DeFord's 2010 graphs](http://people.csail.mit.edu/ddeford/dual_graphs)
 -   [Eugene Lykhovyd's 2010 data](https://lykhovyd.com/files/public/districting/)
+-   [Eugene Lykhovyd's 2020 data](https://lykhovyd.com/files/public/districting/2020/)
 -   [FiveThirtyEight's Redistricting Atlas](https://github.com/fivethirtyeight/redistricting-atlas-data)
 -   [Austin Buchanan's 2010 county data](https://github.com/AustinLBuchanan/county-level-districting/tree/master/data) (simplified from Lykhovyd's data)
 -   [Redistricting Data Hub](https://www.redistrictingdatahub.org/)
