@@ -17,7 +17,7 @@ author_profile: true
 
 3.  Mohammad Javad Naderi
 -   Fall 2017 -- Fall 2021.
--   Position at graduation: Operations Research Scientist at Delta Airlines
+-   Position at graduation: Operations Research Scientist at Delta Air Lines
 -   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [LinkedIn](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
 
 4.  Hosseinali Salemi
