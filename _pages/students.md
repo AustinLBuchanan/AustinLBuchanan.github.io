@@ -16,7 +16,8 @@ author_profile: true
 -   [Website](https://maralshahmizad.github.io/MaralShahmizad/) [Twitter](https://twitter.com/maralshah1) [LinkedIn](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
 
 3.  Mohammad Javad Naderi
--   Fall 2017 -- present.
+-   Fall 2017 -- Fall 2021.
+-   Position at graduation: Operations Research Scientist at Delta Airlines
 -   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [LinkedIn](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
 
 4.  Hosseinali Salemi
