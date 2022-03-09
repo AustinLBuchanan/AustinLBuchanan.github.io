@@ -96,6 +96,7 @@ Links to Links
 
 Redistricting Research Groups
 -   [MGGG](https://mggg.org/)
+-   [Harvard's ALARM Project](https://alarm-redist.github.io/)
 -   [Princeton Election Consortium](https://election.princeton.edu/)
 -   [Redistricting Analytics at Virginia Tech](https://redistricting.cgit.vt.edu/)
 -   [ICOR @ UIUC](http://redistricting.cs.illinois.edu/)
