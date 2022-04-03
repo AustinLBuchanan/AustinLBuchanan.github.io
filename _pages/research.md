@@ -42,7 +42,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Submitted Papers
 
--   Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. Minor revision at _INFORMS Journal on Computing_, December 2021. ([link](http://www.optimization-online.org/DB_HTML/2021/08/8553.html)) ([code](https://github.com/yajun668/FaultTolerantClubs))
+-   Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. Minor revision submitted to _INFORMS Journal on Computing_, March 2022. ([link](http://www.optimization-online.org/DB_HTML/2021/08/8553.html)) ([code](https://github.com/yajun668/FaultTolerantClubs))
 
 ### Other
 
