@@ -51,7 +51,8 @@ Papers from the OR/MS literature
 -   2018: [The geo-graph in practice: creating United States Congressional Districts from census blocks](https://scholar.google.com/scholar?cluster=12242829559541501681&hl=en&as_sdt=0,37)
 -   2019: [Multi-Objective Optimization for Political Districting: A Scalable Multilevel Approach](https://scholar.google.com/scholar?cluster=8265739037844553874&hl=en&as_sdt=0,37)
 -   2020: [Imposing contiguity constraints in political districting models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Imposing+contiguity+constraints+in+political+districting+models+&btnG=) 
--   2021: [Political districting to minimize cut edges](http://www.optimization-online.org/DB_HTML/2021/04/8349.html)
+-   2021: [Fairmandering: A column generation heuristic for fairness-optimized political districting](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Fairmandering%3A+A+column+generation+heuristic+for+fairness-optimized+political+districting&btnG=)
+-   2022: [Political districting to minimize cut edges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Political+districting+to+minimize+cut+edges&btnG=)
 
 FiveThirtyEight
 -   [The Gerrymandering Project podcast](https://podcasts.apple.com/us/podcast/the-gerrymandering-project/id1336743759)
@@ -73,7 +74,7 @@ Code
 -   [GerryChain](https://gerrychain.readthedocs.io/en/latest/)
 -   *[Imposing contiguity constraints in political districting models](https://github.com/zhelih/districting)*
 -   [Brian Olson's page](https://bdistricting.com/2010/)
--   [Districting Examples from Austin Buchanan (Python, Gurobi, NetworkX, GeoPandas, etc)](https://github.com/AustinLBuchanan/Districting-Examples)
+-   [Districting Examples from Austin Buchanan (Python, Gurobi, NetworkX, GeoPandas, etc)](https://github.com/AustinLBuchanan/Districting-Examples-2020)
 -   *[Political districting to minimize cut edges](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges)*
 -   [Python codes for 2010 and 2020 Reapportionment](https://github.com/AustinLBuchanan/Reapportionment)
 
