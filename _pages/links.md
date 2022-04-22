@@ -26,6 +26,7 @@ On [my GitHub page](https://github.com/AustinLBuchanan), I have posted several 
 -   [Introductory Gurobi Examples](https://github.com/AustinLBuchanan/GurobiExamples)
 -   [Introductory NetworkX Examples](https://github.com/AustinLBuchanan/NetworkX-Examples)
 -   [Location Models](https://github.com/AustinLBuchanan/Location_Models)
+-   [TSP_VRP](https://github.com/AustinLBuchanan/TSP_VRP)
 -   [Introductory Districting Examples](https://github.com/AustinLBuchanan/Districting-Examples-2020)
 -   [District Enumeration](https://github.com/AustinLBuchanan/District-Enumeration)
 -   [Reapportionment](https://github.com/AustinLBuchanan/Reapportionment)
