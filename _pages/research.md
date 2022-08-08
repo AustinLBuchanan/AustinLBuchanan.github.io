@@ -41,8 +41,8 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 18. A. Buchanan, J.S. Sung, V. Boginski, S. Butenko. On connected dominating sets of restricted diameter. _European Journal of Operational Research_, 236(2):410-418, 2014. ([link](http://www.sciencedirect.com/science/article/pii/S0377221713009533)) ([pdf](https://austinlbuchanan.github.io/files/DominatingClub.pdf))
 19. A. Buchanan, J.L. Walteros, S. Butenko, P.M. Pardalos. Solving maximum clique in sparse graphs: an O(nm + n2^{d/4}) algorithm for d-degenerate graphs. _Optimization Letters_, 8(5):1611-1617, 2014. ([link](http://link.springer.com/article/10.1007/s11590-013-0698-2)) ([pdf](https://austinlbuchanan.github.io/files/CliqueDegeneracy.pdf))
 
-[comment]: #   ### Submitted Papers
-[comment]: #   -   
+### Submitted Papers
+- J. Zhang, H. Validi, A. Buchanan, I.V. Hicks. Linear-size formulations for connected planar graph partitioning and political districting. Submitted in August 2022. ([link](https://optimization-online.org/2022/08/linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting/)) ([code](https://github.com/JackDaihanZhang/Linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting))   
 
 ### Other
 
