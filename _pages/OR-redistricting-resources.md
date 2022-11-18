@@ -89,6 +89,7 @@ Data
 -   [Austin Buchanan's 2010 county data](https://github.com/AustinLBuchanan/county-level-districting/tree/master/data) (simplified from Lykhovyd's data)
 -   [Redistricting Data Hub](https://www.redistrictingdatahub.org/)
 -   [United States Congressional District Shapefiles (1789-2012)](http://cdmaps.polisci.ucla.edu/)
+-   [Election data for VTDs (CSV files used by DRA)](https://github.com/dra2020/vtd_data)
 
 Links to Links
 -   VRDI 2018 ([slides](https://sites.tufts.edu/vrdi/slides-2018/)) ([papers and links](https://sites.tufts.edu/vrdi/papers/))
