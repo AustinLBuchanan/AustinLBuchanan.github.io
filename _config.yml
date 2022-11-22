@@ -103,7 +103,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "austin-buchanan-a988a721"
-  mastodon         : "https://mas.to/@AustinLBuchanan"
   orcid            : "http://orcid.org/0000-0003-2999-9666"
   pinterest        :
   soundcloud       :
@@ -114,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCsbxC6AGhtgOl7tD4Lb1s6g"
+  youtube          : #"https://www.youtube.com/channel/UCsbxC6AGhtgOl7tD4Lb1s6g"
   wikipedia        :
 
 
