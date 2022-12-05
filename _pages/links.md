@@ -17,7 +17,7 @@ Every now and then, I come across an excellent piece of scientific writing that 
 -   [An interview with Jack Edmonds](http://www.mathopt.org/Optima-Issues/optima97.pdf)
 -   [Proofs and refutations](https://math.berkeley.edu/~kpmann/Lakatos.pdf)
 
-Cole Smith has [a great collection of writing tips and style guidelines](http://people.clemson.edu/~jcsmith/tips/Tips_Home.html). I've also written some LaTeX tips based on my own preferences:
+Cole Smith has [a great collection of writing tips and style guidelines]([http://people.clemson.edu/~jcsmith/tips/Tips_Home.html](https://colesmit.expressions.syr.edu/tips-for-students/)). I've also written some LaTeX tips based on my own preferences:
 -   [On formatting mathematical programming formulations in LaTeX](https://www.overleaf.com/read/fqkbtwdqnrzp#/43832922/)
 -   [Declare your operators (e.g., conv, proj, dist, diam)](https://www.overleaf.com/read/rrfztchxcxxz#/41304234/)
 
