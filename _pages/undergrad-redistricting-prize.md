@@ -16,7 +16,7 @@ The competition is open to undergraduate students at U.S. universities who are t
 - May 31, 2024. Deadline for instructors to nominate _one team_ by submitting the team's project documents to buchanan@okstate.edu.
 - June 1-15, 2024. Judges will have two weeks to score the submissions and select a winner.
 - June 16, 2024. The winner will be notified, giving them two weeks to finalize their submission for the [INFORMS Undergraduate OR Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize) (whose deadline is usually June 30th).
-- October 20-24, 2014. INFORMS Annual Meeting in Seattle, WA.
+- October 20-23, 2024. INFORMS Annual Meeting in Seattle, WA.
 
 **Helpful Resources:**
 - A collection of [OR Redistricting Resources](https://austinlbuchanan.github.io/OR-redistricting-resources/)
