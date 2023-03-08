@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Undergrad Redistricting Prize"
+title: "Undergrad Operations Research Redistricting Prize"
 permalink: /undergrad-redistricting-prize/
 author_profile: false
 ---
-
-This page is under construction...
 
 Announcing...the 2023-2024 Undergraduate Operations Research Redistricting Prize!
 
