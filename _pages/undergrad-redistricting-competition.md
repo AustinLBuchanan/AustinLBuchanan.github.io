@@ -14,3 +14,19 @@ Announcing...the 2023-2024 Undergraduate OR Redistricting Competition!
 - Judges will have approximately two weeks (June 1-15, 2024) to score the submissions and select the winner.
 - The winner will be notified around June 16, 2024, giving them two weeks to finalize their submission for the INFORMS Undergrad OR Prize.
 - [This GitHub repo](https://github.com/AustinLBuchanan/Districting-Examples-2020) gives some example districting codes. Near the bottom are links to previous student projects.
+
+Organizer:
+ - Austin Buchanan, Oklahoma State University
+
+Judges:
+ - [Jeanne N. Clelland](https://math.colorado.edu/~jnc/), University of Colorado
+ - [Adolfo Escobedo](https://scai.engineering.asu.edu/faculty/adolfo-escobedo/), Arizona State University
+ - [Soraya Ezazipour](https://sorayaezazipour.github.io/), Oklahoma State University
+ - [Cyrus Hettle](https://sites.gatech.edu/cyrushettle/), Georgia Tech
+ - [Robert Hildebrand](https://sites.google.com/site/robertdhildebrand/), Virginia Tech
+ - [Ian Ludden](https://ian-ludden.github.io/), University of Illinois Urbana-Champaign
+ - [Maral Shahmizad](https://maralshahmizad.github.io/MaralShahmizad/), Oklahoma State University
+ - [Larry Snyder](https://coral.ise.lehigh.edu/larry/), Lehigh University
+ - [Hamidreza Validi](https://sites.google.com/site/hamidrezavalidi2/home), Texas Tech University
+ - [Jose L. Walteros](https://www.researchgamma.com/group_current.html), University at Buffalo
+ - 
