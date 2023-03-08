@@ -12,7 +12,7 @@ The competition is open to undergraduate students at U.S. universities who are t
 ![image info](../images/uscd.png)
 
 **Timeline:**
-- August 2023-May 2024. Instructors of undergrad OR courses in fall 2023 or spring 2024 are invited to use redistricting as a course project. Register your class by sending an email to buchanan@okstate.edu and to receive districting-related course materials (e.g., project descriptions, grading rubrics, homework questions, class activities, data files). 
+- August 2023-May 2024. Instructors of undergrad OR courses in fall 2023 or spring 2024 are invited to use redistricting as a course project. Register your class by sending an email to buchanan@okstate.edu. Registrants will receive districting-related course materials (e.g., project descriptions, grading rubrics, homework questions, class activities, data files). 
 - May 31, 2024. Deadline for instructors to nominate _one team_ by submitting the team's project documents to buchanan@okstate.edu.
 - June 1-15, 2024. Judges will have two weeks to score the submissions and select a winner.
 - June 16, 2024. The winner will be notified, giving them two weeks to finalize their submission for the [INFORMS Undergraduate OR Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize) (whose deadline is usually June 30th).
