@@ -7,6 +7,8 @@ author_profile: false
 
 Announcing...the 2023-2024 Undergraduate Operations Research Redistricting Prize!
 
+![image info](./images/uscd.png)
+
 The competition is open to undergraduate students at U.S. universities who are taking a course in Operations Research (OR). A primary motivation for the competition is to excite students to pursue graduate school and a career in OR. To encourage students to participate in the competition, a member of the top-performing team will receive $1,000 in travel support to attend the [2024 INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2024-INFORMS-Annual-Meeting) in Seattle, WA and compete for the [INFORMS Undergraduate OR Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize). 
 
 **Timeline:**
