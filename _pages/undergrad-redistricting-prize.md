@@ -33,8 +33,8 @@ The competition is open to undergraduate students at U.S. universities who are t
  - [Cyrus Hettle](https://sites.gatech.edu/cyrushettle/), Georgia Tech
  - [Robert Hildebrand](https://sites.google.com/site/robertdhildebrand/), Virginia Tech
  - [Ian Ludden](https://ian-ludden.github.io/), University of Illinois Urbana-Champaign
+ - [Brendan Ruskey](https://www.researchgate.net/profile/Brendan-Ruskey), Lehigh University
  - [Maral Shahmizad](https://maralshahmizad.github.io/MaralShahmizad/), Oklahoma State University
- - [Larry Snyder](https://coral.ise.lehigh.edu/larry/), Lehigh University
  - [Hamidreza Validi](https://sites.google.com/site/hamidrezavalidi2/home), Texas Tech University
  - [Jose L. Walteros](https://www.researchgamma.com/group_current.html), University at Buffalo
  
