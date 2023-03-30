@@ -42,7 +42,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 19. A. Buchanan, J.L. Walteros, S. Butenko, P.M. Pardalos. Solving maximum clique in sparse graphs: an O(nm + n2^{d/4}) algorithm for d-degenerate graphs. _Optimization Letters_, 8(5):1611-1617, 2014. ([link](http://link.springer.com/article/10.1007/s11590-013-0698-2)) ([pdf](https://austinlbuchanan.github.io/files/CliqueDegeneracy.pdf))
 
 ### Submitted Papers
-- M. Shahmizad, A. Buchanan. Political districting to minimize county splits. Submitted in February 2023. ([link](https://optimization-online.org/2023/02/political-districting-to-minimize-county-splits/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Minimize-County-Splits))  
+- M. Shahmizad, A. Buchanan. Political districting to minimize county splits. Submitted in February 2023. ([link](https://optimization-online.org/2023/02/political-districting-to-minimize-county-splits/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Minimize-County-Splits)) ([slides](https://austinlbuchanan.github.io/files/Political_districting_to_minimize_county_splits_slides.pdf)) 
 - J. Zhang, H. Validi, A. Buchanan, I.V. Hicks. Linear-size formulations for connected planar graph partitioning and political districting. Submitted in February 2023. ([link](https://optimization-online.org/2022/08/linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting/)) ([code](https://github.com/JackDaihanZhang/Linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting))   
 
 ### Other
