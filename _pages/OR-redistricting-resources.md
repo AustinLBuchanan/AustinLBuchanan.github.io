@@ -54,6 +54,8 @@ Papers from the OR/MS literature
 -   2020: [Imposing contiguity constraints in political districting models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Imposing+contiguity+constraints+in+political+districting+models+&btnG=) 
 -   2021: [Fairmandering: A column generation heuristic for fairness-optimized political districting](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Fairmandering%3A+A+column+generation+heuristic+for+fairness-optimized+political+districting&btnG=)
 -   2022: [Political districting to minimize cut edges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Political+districting+to+minimize+cut+edges&btnG=)
+-   2023: [Political districting to minimize county splits](https://scholar.google.com/scholar?cluster=10418601442966088790&hl=en&as_sdt=0,37)
+-   2023: [Political districting to optimize the Polsby-Popper compactness score](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C37&q=Political+districting+to+optimize+the+Polsby-Popper+compactness+score&btnG=)
 
 FiveThirtyEight
 -   [The Gerrymandering Project podcast](https://podcasts.apple.com/us/podcast/the-gerrymandering-project/id1336743759)
