@@ -26,6 +26,7 @@ Reviews, Surveys, Books
 -   [Redistricting Algorithms](https://arxiv.org/abs/2011.09504) (from [Political Geometry](https://mggg.org/gerrybook))
 -   [The Realist's Guide to Redistricting](https://sites.tufts.edu/vrdi/files/2019/06/The-Realists-Guide-to-Redistricting-2010-edition.pdf)
 -   [Political Districting Problem: Literature Review and Discussion with regard to Federal Elections in Germany](https://scholar.google.com/scholar?cluster=17472675891767384885&hl=en&as_sdt=0,37)
+-   [Political Districting, for the Encyclopedia of Optimization](https://austinlbuchanan.github.io/files/political_districting_June20.pdf)
 
 Papers
 -   [Recombination: A family of Markov chains for redistricting](https://arxiv.org/abs/1911.05725) 
