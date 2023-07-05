@@ -19,11 +19,10 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 -   A. Buchanan (PI). Imposing connectivity constraints in large-scale network problems. *National Science Foundation* (CMMI-1662757). $258,586, 06/15/2017--05/31/2021. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1662757&HistoricalAwards=false))
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
 
-### Submitted Papers and Book Chapters
-- A. Buchanan. Political Districting. Submitted June 2023. ([link](https://optimization-online.org/2023/06/political-districting/)) ([pdf](https://austinlbuchanan.github.io/files/political_districting_June20.pdf))
+### Submitted Papers
 - P. Belotti, A. Buchanan, S. Ezazipour. Political districting to optimize the Polsby-Popper compactness score. Submitted in May 2023. ([link](https://optimization-online.org/2023/05/political-districting-to-optimize-the-polsby-popper-compactness-score/)) ([code](https://github.com/AustinLBuchanan/Polsby_Popper_optimization))
-- M. Shahmizad, A. Buchanan. Political districting to minimize county splits. Submitted in February 2023. ([link](https://optimization-online.org/2023/02/political-districting-to-minimize-county-splits/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Minimize-County-Splits)) ([slides](https://austinlbuchanan.github.io/files/Political_districting_to_minimize_county_splits_slides.pdf)) ([poster](https://austinlbuchanan.github.io/files/county_splits_poster.pdf))
-- J. Zhang, H. Validi, A. Buchanan, I.V. Hicks. Linear-size formulations for connected planar graph partitioning and political districting. Submitted in February 2023. ([link](https://optimization-online.org/2022/08/linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting/)) ([code](https://github.com/JackDaihanZhang/Linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting))   
+- M. Shahmizad, A. Buchanan. Political districting to minimize county splits. Submitted in February 2023. ([link](https://optimization-online.org/2023/02/political-districting-to-minimize-county-splits/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Minimize-County-Splits)) ([slides](https://austinlbuchanan.github.io/files/Political_districting_to_minimize_county_splits_slides.pdf)) ([poster](https://austinlbuchanan.github.io/files/county_splits_poster.pdf)) <span style="color:blue">Honorable Mention for Best Poster at IPCO 2023</span>
+- J. Zhang, H. Validi, A. Buchanan, I.V. Hicks. Linear-size formulations for connected planar graph partitioning and political districting. Submitted in July 2023. ([link](https://optimization-online.org/2022/08/linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting/)) ([code](https://github.com/JackDaihanZhang/Linear-size-formulations-for-connected-planar-graph-partitioning-and-political-districting))   
 
 
 ### Refereed Journal Articles
@@ -50,6 +49,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Other
 
+- A. Buchanan. Political Districting. In Encylopedia of Optimization (3rd edition). Ed. by P.M. Pardalos and O.A. Prokopyev. Springer, 2023. ([link](https://optimization-online.org/2023/06/political-districting/)) ([pdf](https://austinlbuchanan.github.io/files/political_districting_June20.pdf))
 -   A. Buchanan. New congressional districts for Alabama: SCOTUS rules on race v. geography. _Montgomery Advertiser_, June 19, 2023. ([link1](https://www.montgomeryadvertiser.com/story/opinion/contributors/2023/06/19/alabama-congressional-districts-scotus-rules-on-race-v-geography/70336577007/)) ([link2](https://news.yahoo.com/congressional-districts-alabama-scotus-rules-040417289.html))
 -   A. Buchanan, M.J. Naderi. A brief tutorial on Gomory cuts. *IFORS News*, pages 7-9, March 2020. ([link](https://www.ifors.org/newsletter/ifors-news-march-2020.pdf)) ([pdf](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP/blob/master/A_brief_tutorial_on_Gomory_cuts.pdf)) ([code](https://github.com/MohNaderi/draw-feasible-region-for-LP-IP))
 -   A. Buchanan, S. Butenko. Tight extended formulations for independent set. 2015. ([link](http://www.optimization-online.org/DB_HTML/2014/09/4540.html)) ([pdf](https://austinlbuchanan.github.io/files/Tight%20Extended%20Formulations%20for%20Independent%20Set.pdf))
