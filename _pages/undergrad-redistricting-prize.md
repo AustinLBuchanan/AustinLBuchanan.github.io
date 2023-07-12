@@ -21,7 +21,7 @@ The competition is open to undergraduate students at U.S. universities who are t
 **Helpful Resources:**
 - A collection of [OR Redistricting Resources](https://austinlbuchanan.github.io/OR-redistricting-resources/)
 - A [GitHub repo with example districting codes](https://github.com/AustinLBuchanan/Districting-Examples-2020)
-- A [survey on optimization methods for political districting](https://austinlbuchanan.github.io/files/political_districting_June20.pdf)
+- A [survey on optimization methods for political districting](https://austinlbuchanan.github.io/files/political_districting.pdf)
 - Instructors can email buchanan@okstate.edu to request course materials (e.g., project descriptions, grading rubrics, homework questions, class activities, data files)
 
 **Organizer:**
