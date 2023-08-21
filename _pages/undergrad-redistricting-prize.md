@@ -29,11 +29,11 @@ The competition is open to undergraduate students at U.S. universities who are t
 
 **Judges:**
  - [Jeanne N. Clelland](https://math.colorado.edu/~jnc/), University of Colorado
- - [Adolfo Escobedo](https://scai.engineering.asu.edu/faculty/adolfo-escobedo/), Arizona State University
+ - [Adolfo Escobedo](https://www.ise.ncsu.edu/people/arescobe/), North Carolina State University
  - [Soraya Ezazipour](https://sorayaezazipour.github.io/), Oklahoma State University
  - [Cyrus Hettle](https://sites.gatech.edu/cyrushettle/), Georgia Tech
  - [Robert Hildebrand](https://sites.google.com/site/robertdhildebrand/), Virginia Tech
- - [Ian Ludden](https://ian-ludden.github.io/), University of Illinois Urbana-Champaign
+ - [Ian Ludden](https://ian-ludden.github.io/), Rose-Hulman Institute of Technology
  - [Brendan Ruskey](https://www.researchgate.net/profile/Brendan-Ruskey), Lehigh University
  - [Maral Shahmizad](https://maralshahmizad.github.io/MaralShahmizad/), Oklahoma State University
  - [Hamidreza Validi](https://sites.google.com/site/hamidrezavalidi2/home), Texas Tech University
