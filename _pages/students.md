@@ -6,29 +6,33 @@ author_profile: true
 ---
 
 **PhD students**
+1. Xiaocong Zhen
+-   Fall 2023 -- present.
 
-1. Soraya Ezazipour
+2. Soraya Ezazipour
 -   Fall 2021 -- present.
 -   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
 
-2.  Maral Shahmizad
+3.  Maral Shahmizad
 -   Summer 2021 -- present.
 -   [Website](https://maralshahmizad.github.io/MaralShahmizad/) [Twitter](https://twitter.com/maralshah1) [LinkedIn](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
 
-3.  Mohammad Javad Naderi
+4.  Mohammad Javad Naderi
 -   Fall 2017 -- Fall 2021.
--   Position at graduation: Operations Research Scientist at Delta Air Lines
+-   First position: Operations Research Scientist at Delta Air Lines
 -   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [LinkedIn](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
 
-4.  Hosseinali Salemi
+5.  Hosseinali Salemi
 -   Fall 2016 -- Summer 2020.
--   Position at graduation: Postdoc at Iowa State University
+-   First position: Postdoc at Iowa State University
+-   Current position: Operations Research Scientist at FedEx Freight
 -   [Website](https://halisalemi.github.io/) [Twitter](https://twitter.com/HASalemi) [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 
-5.  Hamidreza Validi 
+6.  Hamidreza Validi 
 -   Fall 2016 -- Summer 2020.
 -   [Website](https://sites.google.com/site/hamidrezavalidi2/home) [Twitter](https://twitter.com/ValidInequality) [LinkedIn](https://www.linkedin.com/in/hamidrezavalidi/)
--   Position at graduation: Postdoc at Rice University
+-   First position: Postdoc at Rice University
+-   Current position: Assistant Professor at Texas Tech University
 
 
 **Undergraduate students**
