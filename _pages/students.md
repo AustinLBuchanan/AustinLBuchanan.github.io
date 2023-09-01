@@ -37,10 +37,13 @@ author_profile: true
 
 **Undergraduate students**
 
-1.  [Ryne Garrison](https://www.linkedin.com/in/ryne-garrison-2b17011b6/)
+1.  [Grace Hendrix](https://www.linkedin.com/in/gracehendrix/)
+-   IEM URA, Fall 2023
+  
+2.  [Ryne Garrison](https://www.linkedin.com/in/ryne-garrison-2b17011b6/)
 -   NSF REU, Summer 2021
 
-2.  [Elizabeth Bunting](https://www.linkedin.com/in/elizabeth-bunting-b01927181/)
+3.  [Elizabeth Bunting](https://www.linkedin.com/in/elizabeth-bunting-b01927181/)
 -   NSF REU, Summer 2018
 -   [Wentz Research Grant](https://scholardevelopment.okstate.edu/undergraduate-research/wentz-research-grants), Fall 2018 -- Spring 2019.
 -   [Project repository](https://github.com/ebunting/Wentz)  
