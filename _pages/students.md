@@ -38,7 +38,8 @@ author_profile: true
 **Undergraduate students**
 
 1.  [Grace Hendrix](https://www.linkedin.com/in/gracehendrix/)
--   IEM URA, Fall 2023
+-   IEM Undergraduate Research Assistant, Fall 2023
+-   CEAT Undergraduate Research Scholar, Fall 2023 -- Spring 2024
   
 2.  [Ryne Garrison](https://www.linkedin.com/in/ryne-garrison-2b17011b6/)
 -   NSF REU, Summer 2021
