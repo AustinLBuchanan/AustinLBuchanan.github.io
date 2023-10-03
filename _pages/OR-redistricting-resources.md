@@ -18,6 +18,7 @@ Miscellaneous
 -   [A Formula Goes to Court: Partisan Gerrymandering and the Efficiency Gap](https://www.ams.org/journals/notices/201709/rnoti-p1020.pdf)
 -   [NCSL Redistricting Criteria](https://www.ncsl.org/research/redistricting/redistricting-criteria.aspx)
 -   [NCSL 2010 Deviation Table](https://www.ncsl.org/research/redistricting/2010-ncsl-redistricting-deviation-table.aspx)
+-   [NCSL 2020 Deviation Table](https://www.ncsl.org/elections-and-campaigns/2020-redistricting-deviation-table)
 -   [NCSL Redistricting Cases](https://www.ncsl.org/research/redistricting/redistricting-and-the-supreme-court-the-most-significant-cases.aspx)
 -   [Ballotpedia: Redistricting](https://ballotpedia.org/Redistricting)
 
