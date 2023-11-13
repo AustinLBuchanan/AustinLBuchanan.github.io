@@ -94,6 +94,7 @@ Data
 -   [Redistricting Data Hub](https://www.redistrictingdatahub.org/)
 -   [United States Congressional District Shapefiles (1789-2012)](http://cdmaps.polisci.ucla.edu/)
 -   [Election data for VTDs (CSV files used by DRA)](https://github.com/dra2020/vtd_data)
+-   [Precinct/VTD-level graphs from DRA](https://github.com/alecramsay/rdadata/tree/main)
 
 Links to Links
 -   VRDI 2018 ([slides](https://sites.tufts.edu/vrdi/slides-2018/)) ([papers and links](https://sites.tufts.edu/vrdi/papers/))
