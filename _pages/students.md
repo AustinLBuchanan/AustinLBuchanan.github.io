@@ -8,10 +8,11 @@ author_profile: true
 **PhD students**
 1. Xiaocong Zhen
 -   Fall 2023 -- present.
+-   [Website](https://jessicaxiaocong.github.io/) [LinkedIn](https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/)
 
 2. Soraya Ezazipour
 -   Fall 2021 -- present.
--   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
+-   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/) 
 
 3.  Maral Shahmizad
 -   Summer 2021 -- present.
