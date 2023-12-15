@@ -33,5 +33,5 @@ On [my GitHub page](https://github.com/AustinLBuchanan), I have posted several 
 -   [Combinatorial Optimization in Gurobi](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi)
 -   [Lagrangian tools for k-median problem (C++)](https://github.com/AustinLBuchanan/kmedian)
 
-Solving problems on [Project Euler](https://projecteuler.net/) is a great way to learn a (new) programming language. Ryo Kimura developed a [solid collection of computational OR materials](https://twitter.com/wjvanhoeve/status/1165984372945825792?s=20). Here is my [collection of redistricting resources](https://austinlbuchanan.github.io/OR-redistricting-resources/) from an OR perspective.
+Solving problems on [Project Euler](https://projecteuler.net/) is a great way to learn a (new) programming language. Ryo Kimura developed a [solid collection of computational OR materials](https://github.com/rkimura47/cmu-comp-or/tree/master/Modules). Here is my [collection of redistricting resources](https://austinlbuchanan.github.io/OR-redistricting-resources/) from an OR perspective.
 
