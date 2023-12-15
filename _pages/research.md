@@ -48,6 +48,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Other
 
+- A. Buchanan. Using optimization to support minority representation in Voting Rights Act cases. *ORMS Today*, 50(4), 2023. ([link](https://pubsonline.informs.org/do/10.1287/orms.2023.04.07/full/))
 - A. Buchanan. A brief tutorial on Benders decomposition. To appear at *IFORS News*. ([pdf](https://github.com/AustinLBuchanan/kmedian_Benders/blob/main/A_brief_tutorial_on_Benders.pdf)) ([code](https://github.com/AustinLBuchanan/kmedian_Benders/tree/main))
 - A. Buchanan. Political Districting. In Encylopedia of Optimization (3rd edition). Ed. by P.M. Pardalos and O.A. Prokopyev. Springer, 2023. ([link](https://link.springer.com/referenceworkentry/10.1007/978-3-030-54621-2_893-1)) ([pdf](https://austinlbuchanan.github.io/files/political_districting.pdf))
 -   A. Buchanan. New congressional districts for Alabama: SCOTUS rules on race v. geography. _Montgomery Advertiser_, June 19, 2023. ([link1](https://www.montgomeryadvertiser.com/story/opinion/contributors/2023/06/19/alabama-congressional-districts-scotus-rules-on-race-v-geography/70336577007/)) ([link2](https://news.yahoo.com/congressional-districts-alabama-scotus-rules-040417289.html))
