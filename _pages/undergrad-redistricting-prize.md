@@ -28,7 +28,7 @@ The competition is open to undergraduate students at U.S. universities who are t
  - Austin Buchanan, Oklahoma State University
 
 **Judges:**
- - [Jeanne N. Clelland](https://math.colorado.edu/~jnc/), University of Colorado
+ - [Kiera Dobbs](https://www.linkedin.com/in/kiera-dobbs-2bb536102), University of Illinois Urbana-Champaign
  - [Adolfo Escobedo](https://www.ise.ncsu.edu/people/arescobe/), North Carolina State University
  - [Soraya Ezazipour](https://sorayaezazipour.github.io/), Oklahoma State University
  - [Cyrus Hettle](https://sites.gatech.edu/cyrushettle/), Georgia Tech
