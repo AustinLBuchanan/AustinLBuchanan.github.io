@@ -20,10 +20,9 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
 
 ### Submitted Papers
+- P. Belotti, A. Buchanan, S. Ezazipour. Political districting to optimize the Polsby-Popper compactness score with application to voting rights. Minor revision at _Operations Research_ in December 2024. ([link](https://optimization-online.org/2023/05/political-districting-to-optimize-the-polsby-popper-compactness-score/)) ([code](https://github.com/AustinLBuchanan/Polsby_Popper_optimization))
 - J. Zhang, L. Silveira, H. Validi, L. Smith, A. Buchanan, I.V. Hicks. Partitioning a graph into low-diameter clusters. Submitted in October 2024. ([link](https://optimization-online.org/2024/10/partitioning-a-graph-into-low-diameter-clusters/)) ([code](https://github.com/JackDaihanZhang/Partitioning-a-graph-into-low-diameter-clusters/tree/main))
 - E. Vercesi, A. Buchanan. The Dantzig-Fulkerson-Johnson TSP formulation is easy to solve for few subtour constraints. Submitted in September 2024. ([link](https://optimization-online.org/2024/09/the-dantzig-fulkerson-johnson-tsp-formulation-is-easy-to-solve-for-few-subtour-constraints/)) ([code](https://github.com/eleonoravercesi/complexity_DFJ_few_subtour/tree/main))
-- P. Belotti, A. Buchanan, S. Ezazipour. Political districting to optimize the Polsby-Popper compactness score with application to voting rights. Resubmitted to _Operations Research_ in June 2024. ([link](https://optimization-online.org/2023/05/political-districting-to-optimize-the-polsby-popper-compactness-score/)) ([code](https://github.com/AustinLBuchanan/Polsby_Popper_optimization))
-
  
 ### Refereed Journal Articles
 1.  A. Buchanan, S. Ezazipour, M. Shahmizad. A widespread belief about county splits in political districting plans is wrong. To appear, _Election Law Journal_. ([link](https://optimization-online.org/2023/12/a-widespread-belief-about-county-splits-in-political-districting-plans-is-wrong/)) ([pdf](https://austinlbuchanan.github.io/files/A_widespread_belief_about_county_splits_is_wrong.pdf)) ([code](https://github.com/AustinLBuchanan/refuting_a_widespread_belief_about_county_splits))
