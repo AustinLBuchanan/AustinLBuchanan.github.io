@@ -38,7 +38,7 @@ author_profile: true
 
 **Undergraduate students**
 
-1.  [Aaron McKinstry](https://www.linkedin.com/in/aaron-mckinstry-594178301/).
+1.  [Aaron McKinstry](https://www.linkedin.com/in/aaron-mckinstry-594178301/)
 -   IEM Undergraduate Research Assistant, Fall 2024 -- Spring 2025
  
 2.  [Grace Hendrix](https://www.linkedin.com/in/gracehendrix/)
