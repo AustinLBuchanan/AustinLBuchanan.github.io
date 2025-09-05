@@ -11,16 +11,17 @@ author_profile: true
 -   [Website](https://jessicaxiaocong.github.io/) [LinkedIn](https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/)
 
 2. Soraya Ezazipour
--   Fall 2021 -- present.
+-   Fall 2021 -- Summer 2025.
 -   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/) 
 
 3.  Maral Shahmizad
--   Summer 2021 -- present.
+-   Summer 2021 -- Summer 2025.
+-   First position: Decision Scientist at Delta Air Lines
 -   [Website](https://maralshahmizad.github.io/MaralShahmizad/) [Twitter](https://twitter.com/maralshah1) [LinkedIn](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
 
 4.  Mohammad Javad Naderi
 -   Fall 2017 -- Fall 2021.
--   First position: Operations Research Scientist at Delta Air Lines
+-   Current position: Senior Decision Scientist at Delta Air Lines
 -   [Google Scholar](https://scholar.google.com/citations?hl=en&user=CU7bDcwAAAAJ) [LinkedIn](https://www.linkedin.com/in/mohammad-javad-naderi-2985754a/)
 
 5.  Hosseinali Salemi
