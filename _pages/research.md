@@ -13,15 +13,16 @@ My research focuses on [combinatorial optimization](http://en.wikipedia.org/wik
 Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2Jhj9SIAAAAJ&hl=en), [GitHub](https://github.com/AustinLBuchanan), [ORCID](http://orcid.org/0000-0003-2999-9666), and [DBLP](https://dblp.uni-trier.de/pid/143/4870.html). 
 
 ### Grants
-
+-   A. Buchanan (PI) and J. Luedtke (coPI). Balanced Graph Partitioning under Uncertainty. *Air Force Office of Scientific Research* (FA9550-25-1-0277). $600,000. 09/15/2025--09/14/2028.
 -   A. Buchanan (PI). CAREER: Parsimonious Models for Redistricting. *National Science Foundation* (CMMI-1942065). $508,000, 06/01/2020--05/31/2025. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1942065&HistoricalAwards=false))
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). FLAT: Freight Lane Assignment Tool. *TreeHouse Foods Inc*. $163,730, 01/13/2020--01/16/2021. 
 -   A. Buchanan (PI). Imposing connectivity constraints in large-scale network problems. *National Science Foundation* (CMMI-1662757). $258,586, 06/15/2017--05/31/2021. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1662757&HistoricalAwards=false))
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
 
 ### Submitted Papers
-- J. Zhang, L. Silveira, H. Validi, L. Smith, A. Buchanan, I.V. Hicks. Partitioning a graph into low-diameter clusters. Submitted in October 2024. ([link](https://optimization-online.org/2024/10/partitioning-a-graph-into-low-diameter-clusters/)) ([code](https://github.com/JackDaihanZhang/Partitioning-a-graph-into-low-diameter-clusters/tree/main))
-- E. Vercesi, A. Buchanan. The Dantzig-Fulkerson-Johnson TSP formulation is easy to solve for few subtour constraints. Submitted in September 2024. ([link](https://optimization-online.org/2024/09/the-dantzig-fulkerson-johnson-tsp-formulation-is-easy-to-solve-for-few-subtour-constraints/)) ([code](https://github.com/eleonoravercesi/complexity_DFJ_few_subtour/tree/main))
+- S. Ezazipour, P. Belotti, A. Buchanan, J.L. Walteros. Finding Pareto-optimal districting plans. Submitted in July 2025.
+- J. Zhang, L. Silveira, H. Validi, L. Smith, A. Buchanan, I.V. Hicks. Partitioning a graph into low-diameter clusters. Revision submitted to *INFORMS Journal on Computing* in July 2025. ([link](https://optimization-online.org/2024/10/partitioning-a-graph-into-low-diameter-clusters/)) ([code](https://github.com/JackDaihanZhang/Partitioning-a-graph-into-low-diameter-clusters/tree/main))
+- E. Vercesi, A. Buchanan. The Dantzig-Fulkerson-Johnson TSP formulation is easy to solve for few subtour constraints. Submitted in April 2025. ([link](https://optimization-online.org/2024/09/the-dantzig-fulkerson-johnson-tsp-formulation-is-easy-to-solve-for-few-subtour-constraints/)) ([code](https://github.com/eleonoravercesi/complexity_DFJ_few_subtour/tree/main))
  
 ### Refereed Journal Articles
 1.  P. Belotti, A. Buchanan, S. Ezazipour. Political districting to optimize the Polsby-Popper compactness score with application to voting rights. To appear, _Operations Research_. ([link](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1078)) ([pdf](https://austinlbuchanan.github.io/files/Political_Districting_to_Optimize_Polsby_Popper_Compactness_OO.pdf)) ([code](https://github.com/AustinLBuchanan/Polsby_Popper_optimization))
