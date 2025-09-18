@@ -11,7 +11,7 @@ Here are [some tips for PhD students](https://austinlbuchanan.github.io/files/T
 
 Every now and then, I come across an excellent piece of scientific writing that I feel the need to share:
 -   [The great mathematical sputnik of 1979](http://lpsdp.files.wordpress.com/2011/10/ellipsoid-stories.pdf)
--   [What to do when the trisector comes](http://web.mst.edu/~lmhall/WhatToDoWhenTrisectorComes.pdf)
+-   [What to do when the trisector comes](https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf)
 -   [What does a confidence interval mean?](http://sober.philosophy.wisc.edu/course-materials/CM-ConfidenceInterval.pdf)
 -   [Who can name the bigger number?](http://www.scottaaronson.com/writings/bignumbers.html)
 -   [An interview with Jack Edmonds](http://www.mathopt.org/Optima-Issues/optima97.pdf)
