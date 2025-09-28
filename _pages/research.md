@@ -14,7 +14,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Grants
 -   A. Buchanan (PI) and J. Luedtke (coPI). Balanced Graph Partitioning under Uncertainty. *Air Force Office of Scientific Research* (FA9550-25-1-0277). $600,000. 09/15/2025--09/14/2028.
--   A. Buchanan (PI). CAREER: Parsimonious Models for Redistricting. *National Science Foundation* (CMMI-1942065). $508,000, 06/01/2020--05/31/2025. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1942065&HistoricalAwards=false))
+-   A. Buchanan (PI). CAREER: Parsimonious Models for Redistricting. *National Science Foundation* (CMMI-1942065). $508,000, 06/01/2020--05/31/2026. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1942065&HistoricalAwards=false))
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). FLAT: Freight Lane Assignment Tool. *TreeHouse Foods Inc*. $163,730, 01/13/2020--01/16/2021. 
 -   A. Buchanan (PI). Imposing connectivity constraints in large-scale network problems. *National Science Foundation* (CMMI-1662757). $258,586, 06/15/2017--05/31/2021. ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1662757&HistoricalAwards=false))
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
