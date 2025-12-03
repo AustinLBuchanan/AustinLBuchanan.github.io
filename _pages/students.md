@@ -12,6 +12,7 @@ author_profile: true
 
 2. Soraya Ezazipour
 -   Fall 2021 -- Summer 2025.
+-   First position: Senior Data Scientist--Operations Research at Walmart Global Tech
 -   [Website](https://sorayaezazipour.github.io/) [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/) 
 
 3.  Maral Shahmizad
