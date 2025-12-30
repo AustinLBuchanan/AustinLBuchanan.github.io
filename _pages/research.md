@@ -21,8 +21,8 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 
 ### Submitted Papers
 - M. Shahmizad, A. Buchanan. Political districting to maximize whole counties. Submitted in October 2025. ([link](https://optimization-online.org/2025/10/political-districting-to-maximize-whole-counties/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Maximize-Whole-Counties/tree/main))
-- S. Ezazipour, P. Belotti, A. Buchanan, J.L. Walteros. Finding Pareto-optimal districting plans. Submitted in July 2025.
-- J. Zhang, L. Silveira, H. Validi, L. Smith, A. Buchanan, I.V. Hicks. Partitioning a graph into low-diameter clusters. Revision submitted to *INFORMS Journal on Computing* in July 2025. ([link](https://optimization-online.org/2024/10/partitioning-a-graph-into-low-diameter-clusters/)) ([code](https://github.com/JackDaihanZhang/Partitioning-a-graph-into-low-diameter-clusters/tree/main))
+- S. Ezazipour, P. Belotti, A. Buchanan, J.L. Walteros. Finding Pareto-optimal districting plans. Major revision at *Manufacturing & Service Operations Management* in November 2025.
+- J. Zhang, L. Silveira, H. Validi, L. Smith, A. Buchanan, I.V. Hicks. Partitioning a graph into low-diameter clusters. Revision submitted to *INFORMS Journal on Computing* in December 2025. ([link](https://optimization-online.org/2024/10/partitioning-a-graph-into-low-diameter-clusters/)) ([code](https://github.com/JackDaihanZhang/Partitioning-a-graph-into-low-diameter-clusters/tree/main))
 - E. Vercesi, A. Buchanan. The Dantzig-Fulkerson-Johnson TSP formulation is easy to solve for few subtour constraints. Submitted in April 2025. ([link](https://optimization-online.org/2024/09/the-dantzig-fulkerson-johnson-tsp-formulation-is-easy-to-solve-for-few-subtour-constraints/)) ([code](https://github.com/eleonoravercesi/complexity_DFJ_few_subtour/tree/main))
  
 ### Refereed Journal Articles
