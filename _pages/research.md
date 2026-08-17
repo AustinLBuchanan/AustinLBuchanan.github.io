@@ -20,6 +20,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
 
 ### Submitted Papers
+- I. Jolly, A. Buchanan. A guide to inexact contiguity constraints. Submitted in August 2026. ([link](https://optimization-online.org/2026/08/a-guide-to-inexact-contiguity-constraints/)) ([code](https://github.com/Ishaanjolly/A-guide-to-inexact-contiguity-constraints))
 - M. Shahmizad, A. Buchanan. Political districting to maximize whole counties. Revision submitted to *Mathematical Programming Computation* in May 2026. ([link](https://optimization-online.org/2025/10/political-districting-to-maximize-whole-counties/)) ([code](https://github.com/maralshahmizad/Political-Districting-to-Maximize-Whole-Counties/tree/main))
 - S. Ezazipour, P. Belotti, A. Buchanan, J.L. Walteros. Finding Pareto-optimal districting plans. Major revision at *Manufacturing & Service Operations Management* in November 2025.
 - E. Vercesi, A. Buchanan. The Dantzig-Fulkerson-Johnson TSP formulation is easy to solve for few subtour constraints. Revision submitted to *INFORMS Journal on Optimization* in February 2026. ([link](https://optimization-online.org/2024/09/the-dantzig-fulkerson-johnson-tsp-formulation-is-easy-to-solve-for-few-subtour-constraints/)) ([code](https://github.com/eleonoravercesi/complexity_DFJ_few_subtour/tree/main))
@@ -51,7 +52,7 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 24. A. Buchanan, J.L. Walteros, S. Butenko, P.M. Pardalos. Solving maximum clique in sparse graphs: an O(nm + n2^{d/4}) algorithm for d-degenerate graphs. _Optimization Letters_, 8(5):1611-1617, 2014. ([link](http://link.springer.com/article/10.1007/s11590-013-0698-2)) ([pdf](https://austinlbuchanan.github.io/files/CliqueDegeneracy.pdf))
 
 ### Other
-
+- A. Buchanan, X. Zhen. Congressional apportionment. Chapter prepared for book edited by Bruce Golden and Doug Shier, August 2026. ([link](https://optimization-online.org/2026/08/congressional-apportionment/)) ([code](https://github.com/JessicaXiaocong/Apportionment_book_chapter))
 - A. Buchanan. A brief tutorial on Benders decomposition. *IFORS News*, pages 6-7, March 2024. ([link](https://ifors.org/newsletter/ifors-news-march-2024.pdf)) ([pdf](https://github.com/AustinLBuchanan/kmedian_Benders/blob/main/A_brief_tutorial_on_Benders.pdf)) ([code](https://github.com/AustinLBuchanan/kmedian_Benders/tree/main))
 - A. Buchanan. Using optimization to support minority representation in Voting Rights Act cases. *ORMS Today*, 50(4): 32-35, 2023. ([link](https://pubsonline.informs.org/do/10.1287/orms.2023.04.07/full/))
 - A. Buchanan. Political Districting. In Encyclopedia of Optimization (3rd edition). Ed. by P.M. Pardalos and O.A. Prokopyev. Springer, 2023. ([link](https://link.springer.com/referenceworkentry/10.1007/978-3-030-54621-2_893-1)) ([pdf](https://austinlbuchanan.github.io/files/political_districting.pdf))
