@@ -20,7 +20,8 @@ Here are links to my [Google Scholar](http://scholar.google.com/citations?user=2
 -   B. Balasundaram (PI), A. Buchanan (coPI), and S. Heragu (coPI). Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. *Bay Valley Foods, LLC*. $250,599, 10/01/2017--01/31/2020.
 
 ### Submitted Papers
-- I. Jolly, A. Buchanan. A guide to inexact contiguity constraints. Submitted in August 2026. ([link](https://optimization-online.org/2026/08/a-guide-to-inexact-contiguity-constraints/)) ([code](https://github.com/Ishaanjolly/A-guide-to-inexact-contiguity-constraints))
+- E. Vercesi, A. Buchanan. TSP instances that require exponentially many subtour elimination constraints. Submitted in November 2026.
+- I. Jolly, A. Buchanan. A guide to inexact contiguity constraints. Major revision at *Networks* in October 2026. ([link](https://optimization-online.org/2026/08/a-guide-to-inexact-contiguity-constraints/)) ([code](https://github.com/Ishaanjolly/A-guide-to-inexact-contiguity-constraints))
 - S. Ezazipour, P. Belotti, A. Buchanan, J.L. Walteros. Finding Pareto-optimal districting plans. Major revision at *Manufacturing & Service Operations Management* in November 2025.
  
 ### Refereed Journal Articles
